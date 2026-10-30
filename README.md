@@ -191,8 +191,12 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
     - [PyLLE](https://github.com/gregmoille/pyLLE) has more features
 
 - material database
-
   - [rii pandas](https://github.com/mnishida/RII_Pandas)
+  - [refractiveindex](https://github.com/toftul/refractiveindex) - comprehensive Python interface to the refractiveindex.info database.
+
+- Mie scattering
+  - [mielib](https://github.com/toftul/mielib) - Mie coefficients for isotropic spheres (optics and acoustics), scalar and vector spherical harmonics, suitable for pole search.
+  - [miepython](https://github.com/scottprahl/miepython) - Mie scattering of light by spheres: efficiencies, phase functions and scattering matrix elements, also for coated spheres.
 
 - lithography simulation
   - [optolithium](https://github.com/xthebat/optolithium)
