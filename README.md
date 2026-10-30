@@ -192,7 +192,7 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
 
 - material database
   - [rii pandas](https://github.com/mnishida/RII_Pandas)
-  - [refractiveindex](https://github.com/toftul/refractiveindex) - comprehensive Python interface to the refractiveindex.info database.
+  - [refractiveindex](https://github.com/toftul/refractiveindex) - Python interface to the refractiveindex.info database.
 
 - Mie scattering
   - [mielib](https://github.com/toftul/mielib) - Mie theory for optics and acoustics: multipole cross sections, T-matrix, vector spherical harmonics.
